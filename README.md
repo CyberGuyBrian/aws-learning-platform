@@ -6,7 +6,7 @@ An advanced, full-featured AWS certification prep platform built from the ground
 
 ---
 
-## 🎯 What You've Accomplished
+## 🎯 What Was Built
 
 - ✅ Built a complete AWS certification platform with **20 core topics** and **100+ key concepts**
 - 🧠 Developed a **150-question Master Quiz System** with randomized question pools
